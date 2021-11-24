@@ -3,9 +3,9 @@ In this analysis using Python Pandas & Python Matplotlib to analyze and answer b
 The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.<br>
 On this journey I went from Curating the data, to asking important Business Questions and then analysing the dataset to deduct essential Insights for Business Decisons making.<br>
 The Process inludes:<br>
+ 
 A.  DATA CLEANING.
 In this stage, the tasks are:
-
 1.  To Drop NaN values from DataFrame
 2.  To Change the type of columns (to_numeric, to_datetime, astype)
 4.  Once we have cleaned up our data a bit.<br>
