@@ -1,4 +1,4 @@
-Sales Analysis for an Electronic Stores Using Python Pandas<Br>
+Sales Analysis for an Electronic Stores Using Python (Pandas)<Br>
 In this analysis using Python Pandas & Python Matplotlib to analyze and answer business questions.<br> 
 About 12 months worth of sales data, this data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc.<br>
 On this journey I went from Curating the data, to asking important Business Questions and then analysing the dataset to deduct essential Insights for Business Decisons making.<br>
